@@ -22,7 +22,7 @@ password: test1
 
 ========================================
 
-Assumtion
+Assumption
 
 - Only director can Add and delete user.
 - All leave applications final approval are done by director since he is the boss.
