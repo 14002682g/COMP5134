@@ -33,7 +33,7 @@ Assumtion
 User manual
 
 - Login as director in order to add or delete staff through "User Center" menu.
-- director can check the user list through "User Center" -> "User List".
+- director can check the user list through "User Center" -> "Staff List".
 - Logout director and login test1.
 - test1 apply leave through "Application" -> "New Application".
 - Logout test1 and login staff1 since staff1 is the supervisor of test1.
