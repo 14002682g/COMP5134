@@ -25,7 +25,7 @@ password: test1
 Assumption
 
 - Only director can Add and delete user.
-- All leave applications final approval are done by director since he is the boss.
+- All leave applications final approval are done by director since she is the boss.
 - No leave application can be applied by director since director do not have supervisor.
 - All records will be kept when a user logout.
 
