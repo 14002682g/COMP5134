@@ -2,6 +2,12 @@
 Leave Application system for a Human Resource department, in Java, with GUI
 
 ========================================
+Source code:
+
+- import the "COMP5134_14002682g" folder as existing project with Eclipse
+- 5 packages:data, frame, leaveApplication, loginHandler and utils
+
+========================================
 
 Initail User login information
 
